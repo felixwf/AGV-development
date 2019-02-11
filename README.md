@@ -4,8 +4,8 @@ AGV development
 
 ```mermaid
 graph LR
-	Nvidia--ControlMsg-->ARM
-	ARM==<b>StatusMsg==>Nvidia
+Nvidia--ControlMsg-->ARM
+ARM==<b>StatusMsg==>Nvidia
 ```
 
 
